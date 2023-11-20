@@ -10,8 +10,8 @@ global:
     cloudProvider: aws
     storageClassName: gp3-csi
     region: us-west-1b
-    clustername: example-sample
-    domain: patterns.redhat.com
+    clustername: lc-brotman-med-3e16-1
+    domain: blueprints.rhecoeng.com
 
   xraylab:
     namespace: xraylab-1
